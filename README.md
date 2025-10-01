@@ -9,29 +9,30 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 
 ### 🎮 Game Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity3D"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Photon Multiplayer" title="Photon Multiplayer"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="AR/VR Development" title="AR/VR Development"/>
+  <img src="https://img.shields.io/badge/Unity3D-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photon-Multiplayer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AR%2FVR-Development-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🌐 Web & Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/REST-APIs-green?style=for-the-badge" height="28" alt="REST APIs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-APIs-green?style=for-the-badge" />
 </p>
 
 ### ⚙️ Tools & Workflow
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://img.shields.io/badge/Agile-Project%20Management-blue?style=for-the-badge" height="28" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Waterfall-Process-lightgrey?style=for-the-badge" height="28" alt="Ticket Sytem"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-Project%20Management-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Waterfall-Process-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ### 📜 Other
 <p align="left">
-  <img src="https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge" height="28" alt="PMP Certified"/>
+  <img src="https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge" />
 </p>
