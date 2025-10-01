@@ -21,6 +21,5 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile-Project%20Management-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Waterfall-Process-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/PMP-Certified-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/PMP-Certified?style=flat-square" />
 </p>
