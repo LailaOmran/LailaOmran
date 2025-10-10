@@ -23,3 +23,9 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
   <img src="https://img.shields.io/badge/Agile-Project%20Management-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/PMP%20Certified-FFD43B?style=flat-square&logo=google-scholar&logoColor=black" />
 </p>
+
+
+## 🎮 Gameplay Videos
+
+[![Mobile Games](https://img.shields.io/badge/YouTube-Mobile_Games-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLS-j2IQCB243yIVIVGJI0gzz6FnCbWI6B)
+[![PC, Kinect & VR Games](https://img.shields.io/badge/YouTube-PC_&_VR_Games-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLao4MForo3ZQfpdYtYTNhiqcjEsvvDWyp)
