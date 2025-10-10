@@ -40,8 +40,8 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 
 ## 📈 GitHub Stats
 
-![Laila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laila-Omran&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-Omran&layout=compact&theme=tokyonight)
+![Laila's GitHub stats](https://github-readme-stats.vercel.app/api?username=LailaOmran&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaOmran&layout=compact&theme=tokyonight)
 
 
 ## 🎨 Fun Facts
