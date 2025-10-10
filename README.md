@@ -47,3 +47,8 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 </p>
 
 
+## 🎨 Fun Facts
+- 🎮 I’ve built over 20+ Unity games for real-world events.
+- 🌍 I love blending tech, creativity, and storytelling.
+- ☕ Milk Tea + late-night coding = perfect combo.
+
