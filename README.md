@@ -38,3 +38,12 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 | [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) | Lightweight **persistence framework** using Scriptable Objects and event-driven data saving. |
 
 
+## 🌍 Where to Find Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/laila-omran-gamedev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Laila%20Omran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
