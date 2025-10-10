@@ -29,3 +29,13 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 
 [![Mobile Games](https://img.shields.io/badge/YouTube-Mobile_Games-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLS-j2IQCB243yIVIVGJI0gzz6FnCbWI6B)
 [![PC, Kinect & VR Games](https://img.shields.io/badge/YouTube-PC_&_VR_Games-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLao4MForo3ZQfpdYtYTNhiqcjEsvvDWyp)
+
+## 🧩 Unity Tools & Systems
+
+A selection of tools and systems I’ve built for Unity, maintained under the **Unity-Tools** organization:
+
+- [SO_System](https://github.com/Unity-Tools/SO_System) — core **scriptable object system** for data-driven design  
+- [SO_System_SubModule](https://github.com/Unity-Tools/SO_System_SubModule) — modular extension for the SO system  
+- [UnityTools](https://github.com/Unity-Tools/UnityTools) — helper utilities & editor extensions for Unity workflows  
+- [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) — persistence framework using scriptable objects & events
+
