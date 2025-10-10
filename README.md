@@ -32,10 +32,12 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 
 ## 🧩 Unity Tools & Systems
 
-A selection of tools and systems I’ve built for Unity, maintained under the **Unity-Tools** organization:
+| Repository | Description |
+|-------------|-------------|
+| [SO_System](https://github.com/Unity-Tools/SO_System) | Core **Scriptable Object System** for modular and data-driven Unity architecture. |
+| [SO_System_SubModule](https://github.com/Unity-Tools/SO_System_SubModule) | Extensions and **submodules** for the SO System to expand functionality. |
+| [UnityTools – Simple Object Pool](https://github.com/Unity-Tools/UnityTools/tree/SimpleObjectPool) | Efficient **object pooling system** for Unity to improve performance and memory usage. |
+| [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) | Lightweight **persistence framework** using Scriptable Objects and events. |
 
-- [SO_System](https://github.com/Unity-Tools/SO_System) — core **scriptable object system** for data-driven design  
-- [SO_System_SubModule](https://github.com/Unity-Tools/SO_System_SubModule) — modular extension for the SO system  
-- [UnityTools](https://github.com/Unity-Tools/UnityTools) — helper utilities & editor extensions for Unity workflows  
 - [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) — persistence framework using scriptable objects & events
 
