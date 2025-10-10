@@ -34,8 +34,6 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 
 | Repository | Description |
 |-------------|-------------|
-| [SO_System](https://github.com/Unity-Tools/SO_System) | Core **Scriptable Object System** for modular and data-driven Unity architecture. |
-| [SO_StateMachine](https://github.com/Unity-Tools/SO_StateMachine) | Flexible **state machine system** built with Scriptable Objects for clean game logic flow. |
 | [Simple Object Pool](https://github.com/Unity-Tools/UnityTools/tree/SimpleObjectPool) | Efficient **object pooling system** for performance optimization and memory control. |
 | [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) | Lightweight **persistence framework** using Scriptable Objects and event-driven data saving. |
 
