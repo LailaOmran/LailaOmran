@@ -38,6 +38,10 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 | [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) | Lightweight **persistence framework** using Scriptable Objects and event-driven data saving. |
 
 
+## 📈 GitHub Stats
+
+![Laila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laila-Omran&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-Omran&layout=compact&theme=tokyonight)
 
 
 ## 🎨 Fun Facts
