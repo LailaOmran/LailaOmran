@@ -37,11 +37,9 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 | [Simple Object Pool](https://github.com/Unity-Tools/UnityTools/tree/SimpleObjectPool) | Efficient **object pooling system** for performance optimization and memory control. |
 | [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) | Lightweight **persistence framework** using Scriptable Objects and event-driven data saving. |
 
-
-## 📈 GitHub Stats
-
-![Laila's GitHub stats](https://github-readme-stats.vercel.app/api?username=LailaOmran&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaOmran&layout=compact&theme=tokyonight)
+## 🧑‍💻 Other Work
+Some of my **professional and collaborative Unity projects** are hosted privately on **GitLab**.  
+These include company-specific systems, event games, and custom Unity tools developed as part of larger production pipelines.
 
 
 ## 🎨 Fun Facts
