@@ -34,7 +34,7 @@ My goal: mix fun gameplay with solid engineering and meaningful vibes. ✨
 
 | Repository | Description |
 |-------------|-------------|
-| [Localization] (https://github.com/Unity-Tools/Localization.git) | Tools for localizing text and UI in Unity, including editors for converting TextMesh to RTL, auto-localizing texts, exporting localization tables, setting anchors for all resolutions, and fetching questions from StreamingAssets based on the active localization.
+| [Localization] ([https://github.com/Unity-Tools/Localization.git](https://github.com/Unity-Tools/Localization)) | Tools for localizing text and UI in Unity, including editors for converting TextMesh to RTL, auto-localizing texts, exporting localization tables, setting anchors for all resolutions, and fetching questions from StreamingAssets based on the active localization.
 | [Simple Object Pool](https://github.com/Unity-Tools/UnityTools/tree/SimpleObjectPool) | Efficient **object pooling system** for performance optimization and memory control. |
 | [Persistence-Scriptable](https://github.com/Unity-Tools/Persistence-Scriptable) | Lightweight **persistence framework** using Scriptable Objects and event-driven data saving. |
 
