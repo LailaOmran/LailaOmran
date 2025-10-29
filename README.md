@@ -44,7 +44,7 @@ These include company-specific systems, event games, and custom Unity tools deve
 
 
 ## 🎨 Fun Facts
-- 🎮 I’ve built over 20+ Unity games for real-world events.[![Events](https://img.shields.io/badge/YouTube-Game_Events-red?logo=youtube&logoColor=white)]([https://www.youtube.com/playlist?list=PLS-j2IQCB243yIVIVGJI0gzz6FnCbWI6B](https://youtu.be/eTaDVMz3JC8))
+- 🎮 I’ve built over 20+ Unity games for real-world events.[![Events](https://img.shields.io/badge/YouTube-Game_Events-red?logo=youtube&logoColor=white)]([https://youtu.be/eTaDVMz3JC8]))
 - 🌍 I love blending tech, creativity, and storytelling.
 - ☕ Milk Tea + late-night coding = perfect combo.
 
